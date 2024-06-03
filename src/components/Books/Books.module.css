@@ -1,0 +1,21 @@
+.box {
+  border: 1px solid black;
+  width: 20rem;
+  padding: 1rem;
+  text-align: left;
+  background-color: aliceblue;
+}
+.bold {
+  font-weight: 500;
+}
+.flex{
+  display: flex;
+  gap:1rem;
+  justify-content: space-between;
+
+}
+.image{
+  height: 160px;
+  object-fit: contain !important;
+}
+
